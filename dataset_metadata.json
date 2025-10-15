@@ -1,0 +1,33 @@
+{
+  "datasets": [
+    {
+      "filename": "data/S_Gausian.dump",
+      "title": "S_Gausian",
+      "description": "Gaussian synthetic dataset used in the paper.",
+      "format": "python-pickle (pandas.DataFrame)",
+      "license": "See LICENSE",
+      "citation_key": "dmrpt2025",
+      "observed_structure": {
+        "container": "pandas.DataFrame",
+        "shape": [300000, 16],
+        "columns": "0-14 and 'y'",
+        "dtypes_summary": "float64 for columns 0..14, int64 for 'y'",
+        "note": "First 3 rows shown in data README/head; 'y' looks like integer labels."
+      }
+    },
+    {
+      "filename": "data/S_Uniform.dump",
+      "title": "S_Uniform",
+      "description": "Uniform synthetic dataset used in the paper.",
+      "format": "python-pickle (numpy.ndarray)",
+      "license": "See LICENSE",
+      "citation_key": "dmrpt2025",
+      "observed_structure": {
+        "container": "numpy.ndarray",
+        "shape": [200000, 15],
+        "dtype": "float64",
+        "note": "Numeric matrix of features; no explicit labels column."
+      }
+    }
+  ]
+}
