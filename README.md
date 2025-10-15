@@ -41,3 +41,7 @@ Funded by the European Union - NextGenerationEU through Greece 2.0—National Re
 ## License
 
 See `LICENSE` at the repository root for licensing information.
+
+---
+
+For any inquiries or issues related to this repository, please contact [Panagiotis Anagnostou](mailto:panagno@uth.gr), or create an issue in the repository.
