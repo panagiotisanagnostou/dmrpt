@@ -28,8 +28,6 @@ python load_data.py data/S_Gausian.dump data/S_Uniform.dump
 
 ## Citation
 
-Citation metadata will be added to this repository and is currently a placeholder in `CITATION.cff`.
-
 If you use this paper or data in your work, please cite:
 
 TODO: Add the citation information for the paper once available.
